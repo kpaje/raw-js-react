@@ -1,0 +1,24 @@
+{
+	"name": "raw-js-react",
+	"version": "1.0.0",
+	"description": "Pure React, no JSX etc.",
+	"main": "index.js",
+	"scripts": {
+		"format": "prettier \"src/**/*.{js,html}\" --write",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kpaje/raw-js-react.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/kpaje/raw-js-react/issues"
+	},
+	"homepage": "https://github.com/kpaje/raw-js-react#readme",
+	"devDependencies": {
+		"prettier": "^1.18.2"
+	}
+}
